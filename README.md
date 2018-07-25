@@ -1,0 +1,2 @@
+# CustomAACLifecycleDemo
+仿AAC框架，自定义Lifecycle框架，实现控件绑定页面生命周期
